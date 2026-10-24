@@ -14,6 +14,7 @@
 | [0147-insertion-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshbansal906/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
