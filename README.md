@@ -15,6 +15,7 @@
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshbansal906/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshbansal906/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshbansal906/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
