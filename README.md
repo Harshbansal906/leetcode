@@ -16,6 +16,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Harshbansal906/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Harshbansal906/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshbansal906/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
