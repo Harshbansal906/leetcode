@@ -19,6 +19,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Harshbansal906/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshbansal906/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -64,6 +65,7 @@
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Harshbansal906/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,5 +91,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harshbansal906/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshbansal906/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
