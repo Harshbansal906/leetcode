@@ -23,6 +23,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshbansal906/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/Harshbansal906/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
