@@ -10,6 +10,7 @@
 | [0061-rotate-list](https://github.com/Harshbansal906/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshbansal906/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshbansal906/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/Harshbansal906/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshbansal906/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshbansal906/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshbansal906/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
