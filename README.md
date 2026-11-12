@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshbansal906/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/Harshbansal906/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Harshbansal906/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
