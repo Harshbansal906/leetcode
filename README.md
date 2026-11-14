@@ -117,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshbansal906/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshbansal906/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
