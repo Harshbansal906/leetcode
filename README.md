@@ -101,6 +101,7 @@
 | [0002-add-two-numbers](https://github.com/Harshbansal906/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshbansal906/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshbansal906/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,9 +131,11 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
