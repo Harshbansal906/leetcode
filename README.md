@@ -56,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/Harshbansal906/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshbansal906/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | [0147-insertion-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Harshbansal906/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Harshbansal906/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -144,4 +147,8 @@
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
