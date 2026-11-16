@@ -58,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Harshbansal906/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Harshbansal906/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -151,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
