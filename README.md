@@ -56,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/Harshbansal906/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshbansal906/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshbansal906/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -138,6 +139,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshbansal906/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Harshbansal906/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
