@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshbansal906/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshbansal906/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Harshbansal906/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Harshbansal906/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshbansal906/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
