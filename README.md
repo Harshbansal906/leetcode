@@ -79,6 +79,7 @@
 | [0143-reorder-list](https://github.com/Harshbansal906/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Harshbansal906/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshbansal906/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshbansal906/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshbansal906/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshbansal906/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -143,6 +145,7 @@
 | [0485-max-consecutive-ones](https://github.com/Harshbansal906/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshbansal906/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Harshbansal906/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
