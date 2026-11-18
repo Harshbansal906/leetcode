@@ -124,6 +124,7 @@
 | [0344-reverse-string](https://github.com/Harshbansal906/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Harshbansal906/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshbansal906/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Harshbansal906/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
