@@ -73,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshbansal906/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [1470-shuffle-the-array](https://github.com/Harshbansal906/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshbansal906/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshbansal906/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -164,4 +166,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshbansal906/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 <!---LeetCode Topics End-->
