@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshbansal906/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/Harshbansal906/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshbansal906/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -121,6 +122,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshbansal906/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Harshbansal906/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0179-largest-number](https://github.com/Harshbansal906/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Harshbansal906/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Harshbansal906/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -144,6 +146,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Harshbansal906/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshbansal906/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Harshbansal906/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -170,5 +173,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Harshbansal906/leetcode/tree/main/0179-largest-number/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshbansal906/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 <!---LeetCode Topics End-->
