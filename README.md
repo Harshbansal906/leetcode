@@ -109,12 +109,14 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Harshbansal906/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Harshbansal906/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0067-add-binary](https://github.com/Harshbansal906/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Harshbansal906/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshbansal906/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshbansal906/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Harshbansal906/leetcode/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harshbansal906/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Harshbansal906/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshbansal906/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -125,6 +127,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshbansal906/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Harshbansal906/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Harshbansal906/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0067-add-binary](https://github.com/Harshbansal906/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0179-largest-number](https://github.com/Harshbansal906/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshbansal906/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Harshbansal906/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -168,6 +171,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Harshbansal906/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0645-set-mismatch](https://github.com/Harshbansal906/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
